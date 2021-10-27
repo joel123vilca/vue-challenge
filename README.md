@@ -1,5 +1,19 @@
 # vue-challenge
 
+Use the following API [https://openlibrary.org/dev/docs/api/search] to create a simple page that includes:
+
+- A simple title for the page
+- A centered input where you can type in a search term
+- A button that when clicked, will search for the term in the input and is disabled if no text is on the input
+- A list of books that are returned from the API when the button is clicked should appea below the input
+
+*You can use anyting you like for the API, but make sure to use the search API.*
+
+You have a starter nuxt template repo in here, and you are able to make any changes that you want.
+Fork this repo and work on you own repo as that would be the repo we will be reviewing.
+
+GOOD LUCK!
+
 ## Build Setup
 
 ```bash
